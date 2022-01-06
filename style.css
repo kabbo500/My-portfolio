@@ -1,0 +1,21 @@
+.first-part{
+    display: flex;
+    
+}
+#h1{
+border-left: 5px solid orangered;
+}
+.myself{
+    margin-left: 10px;
+    width: 40%;
+}
+.myself img{
+    width: 100%;
+}
+#link{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    width: 10px 40px;
+    border-radius: 5px;
+    padding: 5px;
+}
