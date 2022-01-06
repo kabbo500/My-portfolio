@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 .first-part{
     display: flex;
     margin-bottom: 20px;
@@ -21,6 +24,7 @@ border-left: 5px solid orangered;
     width: 10px 40px;
     border-radius: 5px;
     padding: 5px;
+    color: white;
 }
 .second-part{
     margin-top: 30px;
@@ -57,6 +61,7 @@ border-left: 5px solid orangered;
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 40px;
 }
 .develop{
     
@@ -78,4 +83,31 @@ width: 100%;
     padding: 5px;
     border-radius: 5px;
     width: 10px 40px;
+    color: white;
+}
+.fourth-part{
+    display: flex;
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+}
+.qualification{
+    
+    margin-left: 20px;
+}
+.qualification img{
+    width: 100%;
+}
+#know{
+    width:70%
+}
+#boys{
+    width: 30%;
+}
+#read-documentation{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    width: 10px 40px;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
 }
