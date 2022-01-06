@@ -18,6 +18,9 @@ border-left: 5px solid orangered;
     margin-left: 100px;
     margin-bottom: 50px;
 }
+#mission-2022{
+    color: orange;
+}
 #link{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
@@ -37,7 +40,7 @@ border-left: 5px solid orangered;
     width: 33%;
     margin-left: 10px;
     padding: 10px;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 .my-goal img{
     width: 50%;
@@ -45,6 +48,9 @@ border-left: 5px solid orangered;
     }
 #h2{
     text-align: center;
+}
+#m2022{
+    color: tomato;
 }
 #mission{
     background-color: peachpuff;
@@ -110,4 +116,22 @@ width: 100%;
     padding: 5px;
     border-radius: 5px;
     color: white;
+}
+.last-part{
+    background-color: black;
+    margin-top: 70px;
+}
+.footer{
+    color: beige;
+    text-align: center;
+    padding: 5px;
+}
+#color{
+    color: tomato;
+}
+#hard{
+    font-size: 10px;
+}
+#footer{
+    font-size: 7px;
 }
