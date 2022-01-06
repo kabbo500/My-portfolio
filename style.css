@@ -1,7 +1,7 @@
 .first-part{
     display: flex;
     margin-bottom: 20px;
-    
+   
 }
 #h1{
 border-left: 5px solid orangered;
@@ -12,6 +12,8 @@ border-left: 5px solid orangered;
 }
 .myself img{
     width: 100%;
+    margin-left: 100px;
+    margin-bottom: 50px;
 }
 #link{
     text-decoration: none;
@@ -21,10 +23,11 @@ border-left: 5px solid orangered;
     padding: 5px;
 }
 .second-part{
-    
+    margin-top: 30px;
 }
 .mission{
     display: flex;
+    margin-bottom: 20px;
 }
 .my-goal{
     width: 33%;
@@ -48,4 +51,31 @@ border-left: 5px solid orangered;
 #goals{
     background-color: turquoise;
 
+}
+.third-part{
+    display: flex;
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.develop{
+    
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.develop img{
+width: 100%;
+}
+#pic{
+    width: 30%;
+}
+#document{
+    width: 70%;
+}
+#read{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 5px;
+    border-radius: 5px;
+    width: 10px 40px;
 }
