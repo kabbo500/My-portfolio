@@ -1,5 +1,6 @@
 .first-part{
     display: flex;
+    margin-bottom: 20px;
     
 }
 #h1{
@@ -18,4 +19,33 @@ border-left: 5px solid orangered;
     width: 10px 40px;
     border-radius: 5px;
     padding: 5px;
+}
+.second-part{
+    
+}
+.mission{
+    display: flex;
+}
+.my-goal{
+    width: 33%;
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.my-goal img{
+    width: 50%;
+    
+    }
+#h2{
+    text-align: center;
+}
+#mission{
+    background-color: peachpuff;
+}
+#vision{
+    background-color: slategray;
+}
+#goals{
+    background-color: turquoise;
+
 }
